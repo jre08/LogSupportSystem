@@ -1,0 +1,10 @@
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\bin\Debug\LogSupportSystem.exe.config
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\obj\Debug\LogSupportSystem.csprojResolveAssemblyReference.cache
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\obj\Debug\LogSupportSystem.FormLogRequest.resources
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\obj\Debug\LogSupportSystem.formMainScreen.resources
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\obj\Debug\LogSupportSystem.Properties.Resources.resources
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\obj\Debug\LogSupportSystem.csproj.GenerateResource.Cache
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\bin\Debug\LogSupportSystem.exe
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\bin\Debug\LogSupportSystem.pdb
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\obj\Debug\LogSupportSystem.exe
+E:\Projects\Freelancer\LogSupportSystem\Source\LogSupportSystem\LogSupportSystem\obj\Debug\LogSupportSystem.pdb
